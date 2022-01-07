@@ -1,0 +1,32 @@
+# _   _        _      _  _
+#| | | |  ___ | |  __| |(_)  __ _
+#| |_| | / _ \| | / _` || | / _` |
+#|  _  ||  __/| || (_| || || (_| |
+#|_| |_| \___||_| \__,_||_| \__,_|
+
+#Welcome in Config | Bienvenue dans la config
+#Mail: fancode.pro@gmail.com
+
+
+#Join And Leave | Player joint est player Leave
+JoinMessage: "§f[§d+§f] §d{player}"
+QuitMessage: "§f[§c-§f] §c{player}"
+
+#Block Event | Evenement des block
+BlockBreak: true
+BlockPlace: true
+
+#Player Damage | Dégat des joueurs
+PlayerDamage: true
+
+#Message, default none | Message, aucun de base
+NoBlockBreak: ""
+NoBlockPlace: ""
+NoPlayerDamage: ""
+
+#Player TP Location | Emplacement de TP des joueurs
+# To define TP location don't use the parentheses"" | pour définir l'emplacement de TP des joueur ne pas utiliser les parenthèses""
+TPLocationX: "none"
+TPLocationY: "none"
+TPLocationZ: "none"
+TPLocationWorld: "none"
